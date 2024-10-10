@@ -1,0 +1,34 @@
+D:\Mis Proyectos C#\Calculadora IMC\bin\Debug\net6.0-windows\Calculadora IMC.exe
+D:\Mis Proyectos C#\Calculadora IMC\bin\Debug\net6.0-windows\Calculadora IMC.deps.json
+D:\Mis Proyectos C#\Calculadora IMC\bin\Debug\net6.0-windows\Calculadora IMC.runtimeconfig.json
+D:\Mis Proyectos C#\Calculadora IMC\bin\Debug\net6.0-windows\Calculadora IMC.dll
+D:\Mis Proyectos C#\Calculadora IMC\bin\Debug\net6.0-windows\ref\Calculadora IMC.dll
+D:\Mis Proyectos C#\Calculadora IMC\bin\Debug\net6.0-windows\Calculadora IMC.pdb
+D:\Mis Proyectos C#\Calculadora IMC\obj\Debug\net6.0-windows\Calculadora IMC.csproj.AssemblyReference.cache
+D:\Mis Proyectos C#\Calculadora IMC\obj\Debug\net6.0-windows\Calculadora_IMC.Form1.resources
+D:\Mis Proyectos C#\Calculadora IMC\obj\Debug\net6.0-windows\Calculadora IMC.csproj.GenerateResource.cache
+D:\Mis Proyectos C#\Calculadora IMC\obj\Debug\net6.0-windows\Calculadora IMC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Proyectos C#\Calculadora IMC\obj\Debug\net6.0-windows\Calculadora IMC.AssemblyInfoInputs.cache
+D:\Mis Proyectos C#\Calculadora IMC\obj\Debug\net6.0-windows\Calculadora IMC.AssemblyInfo.cs
+D:\Mis Proyectos C#\Calculadora IMC\obj\Debug\net6.0-windows\Calculadora IMC.csproj.CoreCompileInputs.cache
+D:\Mis Proyectos C#\Calculadora IMC\obj\Debug\net6.0-windows\Calculadora IMC.dll
+D:\Mis Proyectos C#\Calculadora IMC\obj\Debug\net6.0-windows\ref\Calculadora IMC.dll
+D:\Mis Proyectos C#\Calculadora IMC\obj\Debug\net6.0-windows\Calculadora IMC.pdb
+D:\Mis Proyectos C#\Calculadora IMC\obj\Debug\net6.0-windows\Calculadora IMC.genruntimeconfig.cache
+C:\Users\vicom\Desktop\Programas Satoyo\02 Calculadora IMC\obj\Debug\net6.0-windows\Calculadora IMC.csproj.AssemblyReference.cache
+C:\Users\vicom\Desktop\Programas Satoyo\02 Calculadora IMC\obj\Debug\net6.0-windows\Calculadora_IMC.Form1.resources
+C:\Users\vicom\Desktop\Programas Satoyo\02 Calculadora IMC\obj\Debug\net6.0-windows\Calculadora IMC.csproj.GenerateResource.cache
+C:\Users\vicom\Desktop\Programas Satoyo\02 Calculadora IMC\obj\Debug\net6.0-windows\Calculadora IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicom\Desktop\Programas Satoyo\02 Calculadora IMC\obj\Debug\net6.0-windows\Calculadora IMC.AssemblyInfoInputs.cache
+C:\Users\vicom\Desktop\Programas Satoyo\02 Calculadora IMC\obj\Debug\net6.0-windows\Calculadora IMC.AssemblyInfo.cs
+C:\Users\vicom\Desktop\Programas Satoyo\02 Calculadora IMC\obj\Debug\net6.0-windows\Calculadora IMC.csproj.CoreCompileInputs.cache
+C:\Users\vicom\Desktop\Programas Satoyo\02 Calculadora IMC\obj\Debug\net6.0-windows\Calculadora IMC.dll
+C:\Users\vicom\Desktop\Programas Satoyo\02 Calculadora IMC\obj\Debug\net6.0-windows\Calculadora IMC.pdb
+C:\Users\vicom\Desktop\Programas Satoyo\02 Calculadora IMC\bin\Debug\net6.0-windows\Calculadora IMC.exe
+C:\Users\vicom\Desktop\Programas Satoyo\02 Calculadora IMC\bin\Debug\net6.0-windows\Calculadora IMC.deps.json
+C:\Users\vicom\Desktop\Programas Satoyo\02 Calculadora IMC\bin\Debug\net6.0-windows\Calculadora IMC.runtimeconfig.json
+C:\Users\vicom\Desktop\Programas Satoyo\02 Calculadora IMC\bin\Debug\net6.0-windows\Calculadora IMC.dll
+C:\Users\vicom\Desktop\Programas Satoyo\02 Calculadora IMC\bin\Debug\net6.0-windows\Calculadora IMC.pdb
+C:\Users\vicom\Desktop\Programas Satoyo\02 Calculadora IMC\obj\Debug\net6.0-windows\refint\Calculadora IMC.dll
+C:\Users\vicom\Desktop\Programas Satoyo\02 Calculadora IMC\obj\Debug\net6.0-windows\Calculadora IMC.genruntimeconfig.cache
+C:\Users\vicom\Desktop\Programas Satoyo\02 Calculadora IMC\obj\Debug\net6.0-windows\ref\Calculadora IMC.dll

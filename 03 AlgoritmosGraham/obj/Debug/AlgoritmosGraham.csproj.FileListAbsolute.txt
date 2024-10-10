@@ -1,0 +1,11 @@
+D:\Mis Proyectos C#\AlgoritmosGraham\bin\Debug\AlgoritmosGraham.exe.config
+D:\Mis Proyectos C#\AlgoritmosGraham\bin\Debug\AlgoritmosGraham.exe
+D:\Mis Proyectos C#\AlgoritmosGraham\bin\Debug\AlgoritmosGraham.pdb
+D:\Mis Proyectos C#\AlgoritmosGraham\obj\Debug\AlgoritmosGraham.csproj.AssemblyReference.cache
+D:\Mis Proyectos C#\AlgoritmosGraham\obj\Debug\AlgoritmosGraham.csproj.SuggestedBindingRedirects.cache
+D:\Mis Proyectos C#\AlgoritmosGraham\obj\Debug\AlgoritmosGraham.Form1.resources
+D:\Mis Proyectos C#\AlgoritmosGraham\obj\Debug\AlgoritmosGraham.Properties.Resources.resources
+D:\Mis Proyectos C#\AlgoritmosGraham\obj\Debug\AlgoritmosGraham.csproj.GenerateResource.cache
+D:\Mis Proyectos C#\AlgoritmosGraham\obj\Debug\AlgoritmosGraham.csproj.CoreCompileInputs.cache
+D:\Mis Proyectos C#\AlgoritmosGraham\obj\Debug\AlgoritmosGraham.exe
+D:\Mis Proyectos C#\AlgoritmosGraham\obj\Debug\AlgoritmosGraham.pdb

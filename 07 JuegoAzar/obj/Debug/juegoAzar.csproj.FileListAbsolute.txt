@@ -1,0 +1,11 @@
+D:\Mis Proyectos C#\juegoAzar\bin\Debug\juegoAzar.exe.config
+D:\Mis Proyectos C#\juegoAzar\bin\Debug\juegoAzar.exe
+D:\Mis Proyectos C#\juegoAzar\bin\Debug\juegoAzar.pdb
+D:\Mis Proyectos C#\juegoAzar\obj\Debug\juegoAzar.csproj.AssemblyReference.cache
+D:\Mis Proyectos C#\juegoAzar\obj\Debug\juegoAzar.csproj.SuggestedBindingRedirects.cache
+D:\Mis Proyectos C#\juegoAzar\obj\Debug\juegoAzar.Form1.resources
+D:\Mis Proyectos C#\juegoAzar\obj\Debug\juegoAzar.Properties.Resources.resources
+D:\Mis Proyectos C#\juegoAzar\obj\Debug\juegoAzar.csproj.GenerateResource.cache
+D:\Mis Proyectos C#\juegoAzar\obj\Debug\juegoAzar.csproj.CoreCompileInputs.cache
+D:\Mis Proyectos C#\juegoAzar\obj\Debug\juegoAzar.exe
+D:\Mis Proyectos C#\juegoAzar\obj\Debug\juegoAzar.pdb

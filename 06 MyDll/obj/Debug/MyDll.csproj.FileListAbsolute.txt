@@ -1,0 +1,6 @@
+D:\Mis Proyectos C#\MyDll\bin\Debug\MyDll.pdb
+D:\Mis Proyectos C#\MyDll\obj\Debug\MyDll.csproj.AssemblyReference.cache
+D:\Mis Proyectos C#\MyDll\obj\Debug\MyDll.csproj.CoreCompileInputs.cache
+D:\Mis Proyectos C#\MyDll\obj\Debug\MyDll.dll
+D:\Mis Proyectos C#\MyDll\obj\Debug\MyDll.pdb
+D:\Mis Proyectos C#\MyDll\obj\Debug\MyDll.csproj.CopyComplete

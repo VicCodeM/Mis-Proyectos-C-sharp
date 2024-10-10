@@ -1,0 +1,15 @@
+D:\Mis Proyectos C#\Soldados\bin\Debug\net6.0\Soldados.exe
+D:\Mis Proyectos C#\Soldados\bin\Debug\net6.0\Soldados.deps.json
+D:\Mis Proyectos C#\Soldados\bin\Debug\net6.0\Soldados.runtimeconfig.json
+D:\Mis Proyectos C#\Soldados\bin\Debug\net6.0\Soldados.dll
+D:\Mis Proyectos C#\Soldados\bin\Debug\net6.0\Soldados.pdb
+D:\Mis Proyectos C#\Soldados\obj\Debug\net6.0\Soldados.csproj.AssemblyReference.cache
+D:\Mis Proyectos C#\Soldados\obj\Debug\net6.0\Soldados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Proyectos C#\Soldados\obj\Debug\net6.0\Soldados.AssemblyInfoInputs.cache
+D:\Mis Proyectos C#\Soldados\obj\Debug\net6.0\Soldados.AssemblyInfo.cs
+D:\Mis Proyectos C#\Soldados\obj\Debug\net6.0\Soldados.csproj.CoreCompileInputs.cache
+D:\Mis Proyectos C#\Soldados\obj\Debug\net6.0\Soldados.dll
+D:\Mis Proyectos C#\Soldados\obj\Debug\net6.0\ref\Soldados.dll
+D:\Mis Proyectos C#\Soldados\obj\Debug\net6.0\Soldados.pdb
+D:\Mis Proyectos C#\Soldados\obj\Debug\net6.0\Soldados.genruntimeconfig.cache
+D:\Mis Proyectos C#\Soldados\obj\Debug\net6.0\refint\Soldados.dll

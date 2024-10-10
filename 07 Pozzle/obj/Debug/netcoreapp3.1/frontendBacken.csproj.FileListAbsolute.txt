@@ -1,0 +1,16 @@
+D:\Mis Proyectos C#\frontendBacken\bin\Debug\netcoreapp3.1\frontendBacken.exe
+D:\Mis Proyectos C#\frontendBacken\bin\Debug\netcoreapp3.1\frontendBacken.deps.json
+D:\Mis Proyectos C#\frontendBacken\bin\Debug\netcoreapp3.1\frontendBacken.runtimeconfig.json
+D:\Mis Proyectos C#\frontendBacken\bin\Debug\netcoreapp3.1\frontendBacken.runtimeconfig.dev.json
+D:\Mis Proyectos C#\frontendBacken\bin\Debug\netcoreapp3.1\frontendBacken.dll
+D:\Mis Proyectos C#\frontendBacken\bin\Debug\netcoreapp3.1\frontendBacken.pdb
+D:\Mis Proyectos C#\frontendBacken\obj\Debug\netcoreapp3.1\frontendBacken.csproj.AssemblyReference.cache
+D:\Mis Proyectos C#\frontendBacken\obj\Debug\netcoreapp3.1\frontendBacken.Form1.resources
+D:\Mis Proyectos C#\frontendBacken\obj\Debug\netcoreapp3.1\frontendBacken.csproj.GenerateResource.cache
+D:\Mis Proyectos C#\frontendBacken\obj\Debug\netcoreapp3.1\frontendBacken.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Proyectos C#\frontendBacken\obj\Debug\netcoreapp3.1\frontendBacken.AssemblyInfoInputs.cache
+D:\Mis Proyectos C#\frontendBacken\obj\Debug\netcoreapp3.1\frontendBacken.AssemblyInfo.cs
+D:\Mis Proyectos C#\frontendBacken\obj\Debug\netcoreapp3.1\frontendBacken.csproj.CoreCompileInputs.cache
+D:\Mis Proyectos C#\frontendBacken\obj\Debug\netcoreapp3.1\frontendBacken.dll
+D:\Mis Proyectos C#\frontendBacken\obj\Debug\netcoreapp3.1\frontendBacken.pdb
+D:\Mis Proyectos C#\frontendBacken\obj\Debug\netcoreapp3.1\frontendBacken.genruntimeconfig.cache

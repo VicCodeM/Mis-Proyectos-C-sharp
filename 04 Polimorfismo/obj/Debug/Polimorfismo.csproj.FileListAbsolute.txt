@@ -1,0 +1,11 @@
+D:\Mis Proyectos C#\Polimorfismo\bin\Debug\Polimorfismo.exe.config
+D:\Mis Proyectos C#\Polimorfismo\bin\Debug\Polimorfismo.exe
+D:\Mis Proyectos C#\Polimorfismo\bin\Debug\Polimorfismo.pdb
+D:\Mis Proyectos C#\Polimorfismo\obj\Debug\Polimorfismo.csproj.AssemblyReference.cache
+D:\Mis Proyectos C#\Polimorfismo\obj\Debug\Polimorfismo.csproj.SuggestedBindingRedirects.cache
+D:\Mis Proyectos C#\Polimorfismo\obj\Debug\Polimorfismo.Form1.resources
+D:\Mis Proyectos C#\Polimorfismo\obj\Debug\Polimorfismo.Properties.Resources.resources
+D:\Mis Proyectos C#\Polimorfismo\obj\Debug\Polimorfismo.csproj.GenerateResource.cache
+D:\Mis Proyectos C#\Polimorfismo\obj\Debug\Polimorfismo.csproj.CoreCompileInputs.cache
+D:\Mis Proyectos C#\Polimorfismo\obj\Debug\Polimorfismo.exe
+D:\Mis Proyectos C#\Polimorfismo\obj\Debug\Polimorfismo.pdb

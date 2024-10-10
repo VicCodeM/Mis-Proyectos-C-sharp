@@ -1,0 +1,22 @@
+D:\Mis Proyectos C#\Dados\bin\Debug\Dados.exe.config
+D:\Mis Proyectos C#\Dados\bin\Debug\Dados.exe
+D:\Mis Proyectos C#\Dados\bin\Debug\Dados.pdb
+D:\Mis Proyectos C#\Dados\obj\Debug\Dados.csproj.AssemblyReference.cache
+D:\Mis Proyectos C#\Dados\obj\Debug\Dados.csproj.SuggestedBindingRedirects.cache
+D:\Mis Proyectos C#\Dados\obj\Debug\Dados.Form1.resources
+D:\Mis Proyectos C#\Dados\obj\Debug\Dados.Properties.Resources.resources
+D:\Mis Proyectos C#\Dados\obj\Debug\Dados.csproj.GenerateResource.cache
+D:\Mis Proyectos C#\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+D:\Mis Proyectos C#\Dados\obj\Debug\Dados.exe
+D:\Mis Proyectos C#\Dados\obj\Debug\Dados.pdb
+C:\Users\vicom\Desktop\Programas Satoyo\Dados\bin\Debug\Dados.exe.config
+C:\Users\vicom\Desktop\Programas Satoyo\Dados\bin\Debug\Dados.exe
+C:\Users\vicom\Desktop\Programas Satoyo\Dados\bin\Debug\Dados.pdb
+C:\Users\vicom\Desktop\Programas Satoyo\Dados\obj\Debug\Dados.csproj.AssemblyReference.cache
+C:\Users\vicom\Desktop\Programas Satoyo\Dados\obj\Debug\Dados.csproj.SuggestedBindingRedirects.cache
+C:\Users\vicom\Desktop\Programas Satoyo\Dados\obj\Debug\Dados.Form1.resources
+C:\Users\vicom\Desktop\Programas Satoyo\Dados\obj\Debug\Dados.Properties.Resources.resources
+C:\Users\vicom\Desktop\Programas Satoyo\Dados\obj\Debug\Dados.csproj.GenerateResource.cache
+C:\Users\vicom\Desktop\Programas Satoyo\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+C:\Users\vicom\Desktop\Programas Satoyo\Dados\obj\Debug\Dados.exe
+C:\Users\vicom\Desktop\Programas Satoyo\Dados\obj\Debug\Dados.pdb

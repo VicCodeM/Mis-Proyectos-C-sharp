@@ -1,0 +1,14 @@
+D:\Mis Proyectos C#\BaseDatos\bin\Debug\Veterinaria.accdb
+D:\Mis Proyectos C#\BaseDatos\bin\Debug\BaseDatos.exe.config
+D:\Mis Proyectos C#\BaseDatos\bin\Debug\BaseDatos.exe
+D:\Mis Proyectos C#\BaseDatos\bin\Debug\BaseDatos.pdb
+D:\Mis Proyectos C#\BaseDatos\obj\Debug\BaseDatos.csproj.AssemblyReference.cache
+D:\Mis Proyectos C#\BaseDatos\obj\Debug\BaseDatos.csproj.SuggestedBindingRedirects.cache
+D:\Mis Proyectos C#\BaseDatos\obj\Debug\BaseDatos.Clientes.resources
+D:\Mis Proyectos C#\BaseDatos\obj\Debug\BaseDatos.Form1.resources
+D:\Mis Proyectos C#\BaseDatos\obj\Debug\BaseDatos.Mascotas.resources
+D:\Mis Proyectos C#\BaseDatos\obj\Debug\BaseDatos.Properties.Resources.resources
+D:\Mis Proyectos C#\BaseDatos\obj\Debug\BaseDatos.csproj.GenerateResource.cache
+D:\Mis Proyectos C#\BaseDatos\obj\Debug\BaseDatos.csproj.CoreCompileInputs.cache
+D:\Mis Proyectos C#\BaseDatos\obj\Debug\BaseDatos.exe
+D:\Mis Proyectos C#\BaseDatos\obj\Debug\BaseDatos.pdb

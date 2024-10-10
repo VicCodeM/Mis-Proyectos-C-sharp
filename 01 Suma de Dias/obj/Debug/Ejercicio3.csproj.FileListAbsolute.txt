@@ -1,0 +1,11 @@
+D:\Mis Proyectos C#\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+D:\Mis Proyectos C#\Ejercicio3\obj\Debug\Ejercicio3.csproj.SuggestedBindingRedirects.cache
+D:\Mis Proyectos C#\Ejercicio3\obj\Debug\Ejercicio3.Form1.resources
+D:\Mis Proyectos C#\Ejercicio3\obj\Debug\Ejercicio3.Properties.Resources.resources
+D:\Mis Proyectos C#\Ejercicio3\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
+D:\Mis Proyectos C#\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+D:\Mis Proyectos C#\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+D:\Mis Proyectos C#\Ejercicio3\bin\Debug\Ejercicio3.exe
+D:\Mis Proyectos C#\Ejercicio3\bin\Debug\Ejercicio3.pdb
+D:\Mis Proyectos C#\Ejercicio3\obj\Debug\Ejercicio3.exe
+D:\Mis Proyectos C#\Ejercicio3\obj\Debug\Ejercicio3.pdb

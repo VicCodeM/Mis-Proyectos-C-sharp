@@ -1,0 +1,14 @@
+D:\Mis Proyectos C#\HilosConsola1\bin\Debug\netcoreapp3.1\HilosConsola1.exe
+D:\Mis Proyectos C#\HilosConsola1\bin\Debug\netcoreapp3.1\HilosConsola1.deps.json
+D:\Mis Proyectos C#\HilosConsola1\bin\Debug\netcoreapp3.1\HilosConsola1.runtimeconfig.json
+D:\Mis Proyectos C#\HilosConsola1\bin\Debug\netcoreapp3.1\HilosConsola1.runtimeconfig.dev.json
+D:\Mis Proyectos C#\HilosConsola1\bin\Debug\netcoreapp3.1\HilosConsola1.dll
+D:\Mis Proyectos C#\HilosConsola1\bin\Debug\netcoreapp3.1\HilosConsola1.pdb
+D:\Mis Proyectos C#\HilosConsola1\obj\Debug\netcoreapp3.1\HilosConsola1.csproj.AssemblyReference.cache
+D:\Mis Proyectos C#\HilosConsola1\obj\Debug\netcoreapp3.1\HilosConsola1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Proyectos C#\HilosConsola1\obj\Debug\netcoreapp3.1\HilosConsola1.AssemblyInfoInputs.cache
+D:\Mis Proyectos C#\HilosConsola1\obj\Debug\netcoreapp3.1\HilosConsola1.AssemblyInfo.cs
+D:\Mis Proyectos C#\HilosConsola1\obj\Debug\netcoreapp3.1\HilosConsola1.csproj.CoreCompileInputs.cache
+D:\Mis Proyectos C#\HilosConsola1\obj\Debug\netcoreapp3.1\HilosConsola1.dll
+D:\Mis Proyectos C#\HilosConsola1\obj\Debug\netcoreapp3.1\HilosConsola1.pdb
+D:\Mis Proyectos C#\HilosConsola1\obj\Debug\netcoreapp3.1\HilosConsola1.genruntimeconfig.cache

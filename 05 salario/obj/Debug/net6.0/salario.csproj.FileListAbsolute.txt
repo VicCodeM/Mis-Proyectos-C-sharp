@@ -1,0 +1,15 @@
+D:\Mis Proyectos C#\salario\bin\Debug\net6.0\salario.exe
+D:\Mis Proyectos C#\salario\bin\Debug\net6.0\salario.deps.json
+D:\Mis Proyectos C#\salario\bin\Debug\net6.0\salario.runtimeconfig.json
+D:\Mis Proyectos C#\salario\bin\Debug\net6.0\salario.dll
+D:\Mis Proyectos C#\salario\bin\Debug\net6.0\salario.pdb
+D:\Mis Proyectos C#\salario\obj\Debug\net6.0\salario.csproj.AssemblyReference.cache
+D:\Mis Proyectos C#\salario\obj\Debug\net6.0\salario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Proyectos C#\salario\obj\Debug\net6.0\salario.AssemblyInfoInputs.cache
+D:\Mis Proyectos C#\salario\obj\Debug\net6.0\salario.AssemblyInfo.cs
+D:\Mis Proyectos C#\salario\obj\Debug\net6.0\salario.csproj.CoreCompileInputs.cache
+D:\Mis Proyectos C#\salario\obj\Debug\net6.0\salario.dll
+D:\Mis Proyectos C#\salario\obj\Debug\net6.0\ref\salario.dll
+D:\Mis Proyectos C#\salario\obj\Debug\net6.0\salario.pdb
+D:\Mis Proyectos C#\salario\obj\Debug\net6.0\salario.genruntimeconfig.cache
+D:\Mis Proyectos C#\salario\obj\Debug\net6.0\refint\salario.dll
